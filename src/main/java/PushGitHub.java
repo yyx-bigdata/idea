@@ -5,5 +5,8 @@ public class PushGitHub {
         System.out.println("你好3");
         System.out.println("你好4");
         System.out.println("你好5");
+        System.out.println("你好6");
+        System.out.println("你好7");
+        System.out.println("你好8");
     }
 }
